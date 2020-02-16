@@ -28,7 +28,7 @@ This is the project where I have to convert the python files from histogram proj
 ### Project 4:Implementaing A*
 Implemented A* algorithm used in the Google maps and verified results with trajectory generated.
 <p align="center">
-<img src="https://github.com/Godcreatebugs/Udacity_Intro_to_Self_Driving_Car/blob/master/Project%204-%20Implementing%20A*(optimal)/Implement%20Route%20Planner/triangleEq_consistentHeuritic.JPG" width="400" height="250">
+<img src="https://github.com/Godcreatebugs/Udacity_Intro_to_Self_Driving_Car/blob/master/Project%204-%20Implementing%20A*/Implement%20Route%20Planner/triangleEq_consistentHeuritic.JPG" width="400" height="250">
 
 
 ### Project 5:Reconstructing Trajectories from Sensor data
