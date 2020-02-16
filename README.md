@@ -7,21 +7,19 @@ This nanodegree is more focusd towards practical implementation of the self driv
 ### Bayesian Thinking and probability
 A mathematical introduction of probability and baye's theorm based on which self driving rejects errors in their sensors.
 
-### Project: Joy Ride
+### Project0: Joy Ride
 This project is for simulation environment introduction from udacity. This helps to understand dynamics with Unity engine based simulation in chrome.
 
-### Project: Implement a Matrix Class
-C++ Basics
-This course is the first step in a rewarding journey towards C++ expertise. The goal is translation: get a program written in Python, and translate it into C++.
+### Project 1: Implementation of histogram filter
+This project is basically the probabilty visualization after car moves in particular direction. This is a jupyter notebook homework.
 
-### Performance Programming in C++
-Explore how to write good code that runs correctly. We’ll focus primarily on low level features of C++, but we’ll discuss other best practices as well.
+### Project 2: Matrix class implementation 
+Built a python file that allows user to do addition,subtraction,multiplication,transpose and inverse like normal matrix.
 
-### Navigating Data Structures
-Algorithmic thinking is a skill you’ll refine throughout your career. In this course you’ll focus on frequently used data structures and algorithms.
+### Project 3:Translate Python to Cpp
+This is the project where I have to convert the python files from histogram project to c++ with high performance.
 
-### Vehicle Motion and Control
-This course is a crash course in two branches of mathematics which are crucial to self driving cars: calculus and trigonometry. You will learn how a self driving car uses various motion sensors to help it understand its own motion.
+### Project 4:Optimize histogram filter
 
 At the end of this course you will use raw sensor data (which give information about distance driven, acceleration, and rotation rates) to reconstruct a vehicle's trajectory through space.
 
