@@ -16,13 +16,15 @@ This project is basically the probabilty visualization after car moves in partic
 ### Project 2: Matrix class implementation 
 Built a python file that allows user to do addition,subtraction,multiplication,transpose and inverse like normal matrix.
 
-### Project 3:Translate Python to Cpp
+### Project 3:Histogram Filter(C++)
 This is the project where I have to convert the python files from histogram project to c++ with high performance.
 
-### Project 4:Optimize histogram filter
+### Project 4:Implementaing A*
+Implemented A* algorithm used in the Google maps and verified results with trajectory generated.
 
-At the end of this course you will use raw sensor data (which give information about distance driven, acceleration, and rotation rates) to reconstruct a vehicle's trajectory through space.
+### Project 5:Reconstructing Trajectories from Sensor data
+A notebook file to merge sensor data from various sensor to reduce errors and make sense out of it.
 
-### Computer Vision and Machine Learning
-In this course you’ll learn how a computer sees an image, and how we can use machine learning to teach a computer to identify images programmatically. **In this project i get 100% accuracy**
+### Project 6: Traffic light classifier
+This is the computer vision project to classify a traffic sign with color prediction where I got **_98% accuracy._**
 
