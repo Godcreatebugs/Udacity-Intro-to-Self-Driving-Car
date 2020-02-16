@@ -1,6 +1,7 @@
 # Intro to Self Driving Cars
 
-This nanodegree is more focusd towards practical implementation of the self driving framworks. I have learned to apply _control techniques combined with motion planning and computer vision._
+This nanodegree is more focusd towards practical implementation of the self driving framworks. I have learned to apply
+**_control techniques combined with motion planning and computer vision._ **
 
 ## Topics 
 
