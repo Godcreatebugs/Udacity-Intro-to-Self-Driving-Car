@@ -18,6 +18,8 @@ This project is basically the probabilty visualization after car moves in partic
 
 ### Project 2: Matrix class implementation and Kalman filter
 Built a python file that allows user to do addition,subtraction,multiplication,transpose and inverse like normal matrix.This has allowed to predict next states of vehicle using Kalman Filter.
+<img src="" width="400" height="250">
+
 
 ### Project 3:Histogram Filter(C++)
 This is the project where I have to convert the python files from histogram project to c++ with high performance.
