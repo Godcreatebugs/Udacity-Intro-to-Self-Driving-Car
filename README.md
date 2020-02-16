@@ -3,20 +3,12 @@
 This nanodegree is more focusd towards practical implementation of the self driving framworks. I have learned to apply
 **_control techniques combined with motion planning and computer vision._**
 
-## Topics 
 
-
-### Orientation
-In this section you'll get a sneak peak of the classroom, meet the team, and learn about the services provided. Then you'll take a readiness assessment and check out some learning resources to help you make the most out of your experience.
-
-[![My project](https://img.youtube.com/vi/SRRnwS_D4-s/0.jpg)](https://youtu.be/SRRnwS_D4-s)
-
-### Bayesian Thinking
-Learn the framework that underlies a self-driving car’s understanding of itself and the world around it, and to see the world the way a self-driving car does.
+### Bayesian Thinking and probability
+A mathematical introduction of probability and baye's theorm based on which self driving rejects errors in their sensors.
 
 ### Project: Joy Ride
-Working with Matrices
-This course will focus on two tools which are vital to self-driving car engineers: object oriented programming and linear algebra.
+This project is for simulation environment introduction from udacity. This helps to understand dynamics with Unity engine based simulation in chrome.
 
 ### Project: Implement a Matrix Class
 C++ Basics
