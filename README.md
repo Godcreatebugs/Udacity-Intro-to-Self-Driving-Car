@@ -13,8 +13,8 @@ This project is for simulation environment introduction from udacity. This helps
 ### Project 1: Implementation of histogram filter
 This project is basically the probabilty visualization after car moves in particular direction. This is a jupyter notebook homework.
 
-### Project 2: Matrix class implementation 
-Built a python file that allows user to do addition,subtraction,multiplication,transpose and inverse like normal matrix.
+### Project 2: Matrix class implementation and Kalman filter
+Built a python file that allows user to do addition,subtraction,multiplication,transpose and inverse like normal matrix.This has allowed to predict next states of vehicle using Kalman Filter.
 
 ### Project 3:Histogram Filter(C++)
 This is the project where I have to convert the python files from histogram project to c++ with high performance.
